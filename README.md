@@ -58,6 +58,9 @@ we see that for Y_3 which is a Classification for the Muliples : 54968   of 6000
  
  
 
+#### Training Logs
+
+![image](https://user-images.githubusercontent.com/71637993/137843934-e0c070f1-6b3b-4763-b8db-d1098512350f.png)
 
 
 
